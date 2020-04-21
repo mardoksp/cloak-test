@@ -1,5 +1,5 @@
-<?php
-
-phpinfo();
-
-?>
+<html>
+  TESTING
+  <?php phpinfo(); ?>
+  
+</html>
